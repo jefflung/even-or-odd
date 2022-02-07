@@ -1,4 +1,5 @@
 # even-or-odd
+Python practice of digital bootcamp with School of Computing & Mathematics, MMU.
 A python program that gets a number from the keyboard and displays if it is Even or Odd. 
 Define three functions to 
 1. Get the number 
